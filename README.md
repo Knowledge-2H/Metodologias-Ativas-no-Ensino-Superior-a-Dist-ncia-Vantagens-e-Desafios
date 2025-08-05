@@ -1,6 +1,6 @@
 # Metodologias-Ativas-no-Ensino-Superior-a-Dist-ncia-Vantagens-e-Desafios
 
-# As metodologias ativas na Educação a Distância tornaram-se uma realidade emergente,
+As metodologias ativas na Educação a Distância tornaram-se uma realidade emergente,
 onde a figura do professor dá lugar ao aluno que se torna o protagonista de sua aprendizagem.
 Diferentemente das metodologias tradicionais, as metodologias ativas abrem espaço para níveis de
 participação e autonomia por parte dos alunos na construção do conhecimento por meio do uso de
